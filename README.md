@@ -1,0 +1,2 @@
+# galau.js
+galau
